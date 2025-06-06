@@ -1,7 +1,7 @@
 {
   "name": "netlify-functions",
   "version": "1.0.0",
-  "description": "Netlify functions for JustDorian",
+  "description": "Netlify functions for JustYou",
   "dependencies": {
     "axios": "^1.9.0"
   }
